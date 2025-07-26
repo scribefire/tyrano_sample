@@ -1,6 +1,6 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="ruk"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
